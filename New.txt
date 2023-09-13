@@ -1,0 +1,6 @@
+1 - Create Student Attendance System using deepface module in python
+2 - the live cam will have square hollow, where user will place face.
+3 - if face matches with the database images of the student.
+4 - Then it will show message  as : Name : {name of student that will be recognize by cam } and Roll No :{} = Present. else show face not matched.
+5 - Then generate a csv which will contain name as {today date} Attendance and fields as : Student_Name , Student_RollNo, Attendance.
+6 - if the live cam recognize student face then it will store details only once in csv file such as Student_Name , Student_RollNo, Attendance {whether Present or absent}
